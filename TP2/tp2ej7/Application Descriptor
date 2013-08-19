@@ -1,0 +1,7 @@
+MIDlet-1: AyudaMemoria,,AyudaMemoria
+MIDlet-Jar-URL: tp2ej7.jar
+MIDlet-Name: tp2ej7 MIDlet
+MIDlet-Vendor: JB
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

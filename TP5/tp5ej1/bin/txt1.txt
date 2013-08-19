@@ -1,0 +1,14 @@
+Intel y Samsung presentan "Tizen", un nuevo sistema operativo móvil
+
+Publicado el miércoles 28 de septiembre de 2011:
+http://www.fayerwayer.com/2011/09/intel-y-samsung-presentan-tizen-su-os-para-competir-con-android/
+
+Para terminar de sepultar a MeeGo, que apenas alcanzó a ver la luz antes de que Nokia lo abandonara por Windows Phone, Intel se ha embarcado en una nueva misión con Samsung para desarrollar Tizen, un nuevo sistema operativo de código abierto basado en Linux.
+El proyecto será alojado por la Linux Foundation, y serán Intel y Samsung quienes lideren en desarrollo. También participará la LiMo Foundation, un consorcio formado por ACCESS, Panasonic Mobile, NEC Casio, NTT DoCoMo, Samsung, SK Telecom, Telefónica y Vodafone.
+Tizen será el heredero de MeeGo y mantendrá algunas de sus características, pero buscará dar énfasis a las aplicaciones HTML5 y soporte para varias categorías de productos, incluyendo tablets, smartphones, smart TVs y entretenimiento en vehículos.
+El proyecto MeeGo ya está pidiendo a sus miembros a cambiarse a Tizen, diciendo que creen que "el futuro le pertenece a las aplicaciones basadas en HTML5, fuera de un pequeño porcentaje de aplicaciones, estamos firmemente convencidos de que nuestra inversión necesita cambiar hacia HTML5".
+Intel dará soporte a Tizen con su programa de desarrolladores AppUp, y un marco de desarrollo basado en estándares HTML5 y WAC. Intel también quiere que los desarrolladores sigan haciendo y enviando aplicaciones para los netbooks con Meego que ya hay en el mercado, y que serían compatibles con Tizen sin necesidad de cambios.
+Samsung agregaría a Tizen como uno más de la larga lista de sistemas operativos que soporta, que incluyen a Android, Windows Phone y el creado por ellos mismos, Bada. "Hemos sido un socio base de Linux, y esto está en línea con nuestra estrategia de soportar muchas plataformas", dijo Samsung al respecto.
+Después de que Google comprara Motorola, y que Microsoft se aliara con Nokia, quizás Samsung quiere mayor control sobre su sistema operativo móvil.
+Se espera que Tizen aparezca el primer trimestre de 2012, con los primeros dispositivos saliendo al mercado a mediados de año.
+

@@ -1,0 +1,7 @@
+MIDlet-1: calculadora,,Calculadora
+MIDlet-Jar-URL: tp1ej8.jar
+MIDlet-Name: tp1ej8 MIDlet
+MIDlet-Vendor: JB
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

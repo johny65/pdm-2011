@@ -1,0 +1,7 @@
+MIDlet-1: Comparer,,Comparer
+MIDlet-Jar-URL: tp4ej5.jar
+MIDlet-Name: tp4ej5 MIDlet
+MIDlet-Vendor: JB
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

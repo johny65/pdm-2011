@@ -1,0 +1,7 @@
+MIDlet-1: ToDoList,,ToDoList
+MIDlet-Jar-URL: tp3ej4.jar
+MIDlet-Name: tp3ej4 MIDlet
+MIDlet-Vendor: JB
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

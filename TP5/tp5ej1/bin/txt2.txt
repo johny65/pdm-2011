@@ -1,0 +1,12 @@
+Se descubren más detalles del nuevo lenguaje de Google llamado Dart
+
+20 de septiembre de 2011
+http://www.genbetadev.com/actualidad/se-descubren-mas-detalles-del-nuevo-lenguaje-de-google-llamado-dart
+
+Recientemente se han filtrado más detalles de lo que será el nuevo lenguaje de Google llamado Dart. Según se informa el objetivo de Dart es suplantar JavaScript, un lenguaje que según Miller define en un memorando interno filtrado "es fundamentalmente defectuoso, limitado de rendimiento y con una evolución lenta".
+Con esta nueva iniciativa, el objetivo de Google es hacer que la web sea lo más eficiente posible. Por las pintas Dart creo que será un lenguaje a alto nivel que genere un javaScript comprimido y eficiente. Ya Google dispone de herramientas parecidas como GWT pero que están orientadas a programadores Java. Implementarlo de manera que genere un fichero que se ejecute por plugin en el navegador, creo que sería un error.
+Además, existiría la posibilidad de que no fuese un simple compilador a javaScript ya que en estos documentos internos se habla de lo interesante que sería tener un apoyo de otros fabricantes de navegadores para que lo soporten nativamente. No creo que todos los fabricantes estén dispuestos a ello ya que cada uno barre para su casa.
+Según Miller: "La comunidad de desarrollo web se ha movido hacia atrás en el uso de grandes cantidades de JavaScript hasta el punto de tener que solucionar problemas de deficiencias en la plataforma".
+Todo esto plantea diferentes desafíos como la implantación y evangelización de un nuevo lenguaje, conseguir que los navegadores ejecuten este nuevo lenguaje nativamente y tener un entorno de desarrollo fácil de utilizar y quizá conseguir que se convierta en un estándar.
+Miller: "Tenemos la intención de cooperar plenamente con los procesos de estándares. El problema es que los procesos estándar actuales se limitan a JavaScript, que no es viable a largo plazo. Cualquier esfuerzo con el bagaje histórico que javaScript tiene está limitado extremadamente. Tenemos que hacer un corte limpio, hacer progresos y luego involucrar a la comunidad".
+A mi parecer, son unas aspiraciones increíblemente altas el conseguir dejar javaScript definitivamente, aunque el proyecto en sí parece viable ya que en el peor de los casos, se puede parecer a GWT. Tras leer todas estas afirmaciones, me viene a la cabeza un video sobre los que desean ir contracorriente.

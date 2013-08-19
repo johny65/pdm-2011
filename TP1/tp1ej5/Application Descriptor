@@ -1,0 +1,7 @@
+MIDlet-1: pausa,,Pausa
+MIDlet-Jar-URL: tp1ej5.jar
+MIDlet-Name: tp1ej5 MIDlet
+MIDlet-Vendor: JB
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

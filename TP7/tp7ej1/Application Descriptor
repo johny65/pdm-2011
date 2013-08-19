@@ -1,0 +1,7 @@
+MIDlet-1: Racer,,Racer
+MIDlet-Jar-URL: tp7ej1.jar
+MIDlet-Name: tp7ej1 MIDlet
+MIDlet-Vendor: JB
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

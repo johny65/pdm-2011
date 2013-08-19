@@ -1,0 +1,7 @@
+MIDlet-1: BaseDatos,,BaseDatos
+MIDlet-Jar-URL: tp5ej2.jar
+MIDlet-Name: tp5ej2 MIDlet
+MIDlet-Vendor: JB
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

@@ -1,0 +1,7 @@
+MIDlet-1: Canvas1,,Canvas1
+MIDlet-Jar-URL: tp6ej1.jar
+MIDlet-Name: tp6ej1 MIDlet
+MIDlet-Vendor: JB
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

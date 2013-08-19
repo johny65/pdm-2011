@@ -1,0 +1,7 @@
+MIDlet-1: Mozo,,Mozo
+MIDlet-Jar-URL: tp3ej1.jar
+MIDlet-Name: tp3ej1 MIDlet
+MIDlet-Vendor: JB
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
